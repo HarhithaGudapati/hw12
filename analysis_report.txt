@@ -1,5 +1,5 @@
-Mean Points: 86.12
-Median Points: 84.00
+Mean Points: 86.11764705882354
+Median Points: 84.0
 Most Wins Team: Chelsea (32 wins)
 Most Losses Team: Liverpool (13 losses)
 Highest Points Team: Manchester Utd (99 points)
